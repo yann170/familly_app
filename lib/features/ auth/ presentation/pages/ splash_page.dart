@@ -1,6 +1,5 @@
 import 'package:familly_apps/features/%20auth/%20presentation/widgets/logo.dart';
 import 'package:flutter/material.dart';
-
 import '../widgets/circular_loader.dart';
 import '../widgets/text.dart';
 
